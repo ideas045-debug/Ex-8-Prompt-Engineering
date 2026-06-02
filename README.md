@@ -30,4 +30,5 @@ Comparison between simple and detailed prompts
 Observations and analysis
 
 Result:
+https://drive.google.com/file/d/1gFDjWpbmqDUQDp6dLxqhNcurWnY69qNU/view?usp=sharing
 Thus, the prompting techniques for AI video generation were successfully explored and analyzed using multiple prompt structures.
